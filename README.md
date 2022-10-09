@@ -14,5 +14,4 @@
 
 ## Links:
 [website]: https://zeltabit.com
-[twitter]: https://twitter.com/sandro_manteiga
 [linkedin]: https://www.linkedin.com/in/óscar-alejandro-manteiga-seoane-78b563144/
