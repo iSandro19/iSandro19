@@ -3,7 +3,6 @@
 ## Mi descripción:
 - 🔭 Actualmente estudio Ingeniería Informática
 - 🌱 Vivo en Galicia, España
-- 🥅 Mi objetivo es trabajar de lo que más me gusta, la tecnología 
 
 ## Mis estadísticas de github:
 [![Mis estadísticas de github por si te interesa](https://github-readme-stats.vercel.app/api?username=iSandro19&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
