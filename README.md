@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sandro Manteiga</h1>
-<h3 align="center">Student at Universidade da Coruña (UDC), Spain🌟.</h3>
+<h3 align="center">Software Developer @ Avansig S.L. 🌟</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=iSandro19&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
+<p align="right"> <h3>About me:</h3>
+    <img src="https://komarev.com/ghpvc/?username=iSandro19&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /> 
+</p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
+- 🧍‍♂️ Currently 22 y/o.
+- 🌱 I’m currently learning Web Development and topics related to Stable Diffusion.
+- 🧑‍🎓 Student of  Computer Engineering - Computer Science at Universidade da Coruña.
+- 🏫 Part of the Software Development team at Avansig S.L.
+- 🏫 Working on an improvement for the OpenLayers digitization system.
 - 📫 How to reach me **manteigaseoaneoscar@gmail.com**
 
 <br>
@@ -68,11 +66,11 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"
-    >
+    /> </img> </p>
 
 <br>
-
-<h3>Statistical Data :-</h3>
+          
+<h3>Statistical Data:</h3>
 <p>
     <img
         align="center"
@@ -81,8 +79,6 @@
         bg_color=#808080/
     >
 </p>
-
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iSandro19&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="iSandro19" /></p>
       
