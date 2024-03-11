@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Web Development and topics related to Stable Diffusion.
 - 🧑‍🎓 Student of  Computer Engineering - Computer Science at Universidade da Coruña.
 - 🏫 Part of the Software Development team at Avansig S.L.
-- 🏫 Working on an improvement for the OpenLayers digitization system.
+- :earth_africa: Working on an improvement for the OpenLayers digitization system.
 - 📫 How to reach me **manteigaseoaneoscar@gmail.com**
 
 <br>
