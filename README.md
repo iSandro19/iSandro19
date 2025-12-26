@@ -62,23 +62,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
-
-<br>
-
-<h3>GitHub Stats 📊</h3>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iSandro19&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="iSandro19"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iSandro19&theme=dark&background=0d1117"
-    alt="iSandro19"
-  />
-</p>
